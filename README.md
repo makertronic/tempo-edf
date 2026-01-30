@@ -4,6 +4,10 @@ Une application légère pour la barre des tâches (system tray) écrite en **Go
 
 ---
 
+https://github.com/makertronic/tempo-edf/blob/main/screenshot/1.png
+
+---
+
 ## 🚀 Fonctionnalités Clés
 
 * **Icône dynamique** : L'icône change de couleur (bleu, blanc, rouge) selon le jour actuel.
