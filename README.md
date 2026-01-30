@@ -33,7 +33,7 @@ Clonez votre projet et placez-vous dans le répertoire :
 ```bash
 git clone https://github.com/makertronic/tempo-edf/
 go mod tidy
-go build
+go build -ldflags "-H windowsgui" -o TempoEDF.exe
 ```
 
 
