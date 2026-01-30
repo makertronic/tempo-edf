@@ -3,8 +3,9 @@
 Une application légère pour la barre des tâches (system tray) écrite en **Go**. Elle permet de suivre en temps réel les **couleurs Tempo d'EDF** (Bleu, Blanc, Rouge) et les tarifs actuels directement depuis votre bureau.
 
 ---
+![screenshot](screenshot/1.png)
+![screenshot2](screenshot/2.png)
 
-https://github.com/makertronic/tempo-edf/blob/main/screenshot/1.png
 
 ---
 
